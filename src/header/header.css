@@ -1,0 +1,33 @@
+#header-section > div{
+    padding: 1% 13%;
+}
+nav ul{
+    width: 100%;
+    justify-content: end;
+}
+nav ul li a{
+    font-weight: bold;
+}
+nav ul li a, .navbar-brand, .navbar-toggler-icon, #first-section {
+    color: white !important;
+}
+
+.search{
+    background: transparent !important;
+    color: white !important;
+}
+.search::placeholder{
+    color: white;
+}
+#header-section{
+    background-image: url(../asset/johnwick.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-position: center center;
+}
+.navbar-brand{
+    font-size: 20px;
+    font-weight: bold;
+}
+

@@ -1,0 +1,23 @@
+.grid-feature{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+
+}
+
+#feature-section > .container-fluid > .grid-feature > article img{
+    width: 80%;
+}
+
+
+
+@media (max-width:780px) {
+    .grid-feature{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+@media (min-width:780px) and (max-width:910px) {
+    .grid-feature{
+        grid-template-columns: repeat(3,1fr);
+    }
+}

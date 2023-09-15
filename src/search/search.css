@@ -1,0 +1,49 @@
+
+.searchResult{
+    border: solid 1px rgb(207, 207, 207);
+    border-radius: 0 20px 20px 0;
+}
+.sideNav > aside{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    height: 100%;
+    gap: 10%;
+    
+}
+.sideNav{
+    border: solid 2px gray;
+    border-radius: 0 20px 20px 0;
+}
+.searchResult{
+    height: 100vh;
+}
+.searchMovie > img{
+    width: 100%;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+
+.searchMovie strong,.searchMovie li ,.searchMovie span{
+    display: inline;
+    font-size: 0.8rem;
+}
+    .searchMovie p{
+        display: block;
+    }
+.searchMovie > .row article{
+display: grid;
+grid-template-columns: repeat(6 ,1fr);
+
+}
+.btn-section-search{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+}
+.btn-section-search button{
+    width: 100%;
+}
