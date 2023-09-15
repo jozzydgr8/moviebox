@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jozzydgr8/moviebox.git/static/css/main.494b91a2.css",
+    "main.js": "/jozzydgr8/moviebox.git/static/js/main.e06b2369.js",
+    "static/js/787.f97e7be6.chunk.js": "/jozzydgr8/moviebox.git/static/js/787.f97e7be6.chunk.js",
+    "static/media/johnwick.webp": "/jozzydgr8/moviebox.git/static/media/johnwick.2d6fae502fa6ef28b831.webp",
+    "index.html": "/jozzydgr8/moviebox.git/index.html",
+    "main.494b91a2.css.map": "/jozzydgr8/moviebox.git/static/css/main.494b91a2.css.map",
+    "main.e06b2369.js.map": "/jozzydgr8/moviebox.git/static/js/main.e06b2369.js.map",
+    "787.f97e7be6.chunk.js.map": "/jozzydgr8/moviebox.git/static/js/787.f97e7be6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494b91a2.css",
+    "static/js/main.e06b2369.js"
+  ]
+}
